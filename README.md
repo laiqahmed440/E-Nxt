@@ -1,2 +1,2 @@
 # E-Nxt
-Android App
+Entertainment next - An Android App
